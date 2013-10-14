@@ -18,4 +18,4 @@ Patches welcome: http://github.com/kra3/django-macaddress
 
 Added support for Admin search. More features are in queue. 
 
-Forked from @tubeman
+Forked from [@tubeman](https://github.com/tubeman)
